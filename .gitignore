@@ -127,10 +127,11 @@ experiments/info_vae/runs/*/generated_images/test/*
 !experiments/info_vae/runs/*/generated_images/test/reconstructed
 experiments/info_vae/runs/*/generated_images/test/reconstructed/*
 !experiments/info_vae/runs/*/generated_images/test/reconstructed/*.gif
+!experiments/info_vae/runs/*/generated_images/test/reconstructed/image_at_iter_000067.png
 !experiments/info_vae/runs/*/generated_images/test/ground_truth
 experiments/info_vae/runs/*/generated_images/test/ground_truth/*
 !experiments/info_vae/runs/*/generated_images/test/ground_truth/*.gif
-
+!experiments/info_vae/runs/*/generated_images/test/ground_truth/image_at_iter_000067.png
 
 
 
